@@ -2,7 +2,7 @@
 
 **Software Engineer & Architect** with 7+ years of experience taking products from first idea to stable production: frontend, backend, cloud and delivery.
 
-Right now I lead engineering for an AI-powered SaaS platform on AWS (NestJS, PostgreSQL, document processing, zero-downtime deploys). Before that I led a backend pod building a B2B ERP platform.
+I like work that has to hold up in the real world: clear architecture, clean APIs and systems that keep running long after launch. I care about getting the details right, and about leaving things easier to run than I found them.
 
 - 🌐 **Portfolio and case studies:** [ykaycode.com](https://ykaycode.com)
 - 💼 **LinkedIn:** [oluwayinka-olaode](https://www.linkedin.com/in/oluwayinka-olaode)
@@ -14,7 +14,6 @@ Right now I lead engineering for an AI-powered SaaS platform on AWS (NestJS, Pos
 - Design and run production systems on AWS with Docker and CI/CD
 - Add AI features that do real work: streaming, tool use, document processing
 - Secure by default: JWT, OAuth 2.0, role-based access, multi-tenant isolation
-- Payments with Stripe, Flutterwave and Paystack
 - Native mobile with Kotlin (Jetpack Compose) and Swift (SwiftUI)
 
 ## Stack
